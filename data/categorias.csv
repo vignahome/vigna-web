@@ -1,0 +1,7 @@
+﻿id;titulo;subtitulo;archivo;grid;carpetaBase
+griferiasBox;GRIFERIA DE COCINA;Selección de modelos exclusivos;data/griferias.csv;griferiasGrid;images/categorias/griferias/productos/
+grifosBox;GRIFERIA DE BAÑOS;Selección de modelos exclusivos;data/grifos.csv;grifosGrid;images/categorias/grifos/productos/
+espejosBox;ESPEJOS LED;Selección de modelos exclusivos;data/espejos.csv;espejosGrid;images/categorias/espejos/productos/
+mueblesBox;MUEBLES DE BAÑO;Selección de modelos exclusivos;data/muebles.csv;mueblesGrid;images/categorias/muebles/productos/
+duchasBox;DUCHAS MODERNAS;Selección de modelos exclusivos;data/duchas.csv;duchasGrid;images/categorias/duchas/productos/
+combosBox;COMBOS;Selección de modelos exclusivos;data/combos.csv;combosGrid;images/categorias/combos/productos/
